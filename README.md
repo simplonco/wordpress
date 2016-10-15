@@ -1,4 +1,5 @@
 # WordPress - https://wordpress.org/
+>_[Training](https://github.com/simplonco/training) / [PHP](https://github.com/simplonco/php-training) / Wordpress_
 
 ![WordPress logo](http://www.tonwebmarketing.fr/wp-content/uploads/2010/08/wordpress-logo.jpg)
 
