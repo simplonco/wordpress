@@ -1,6 +1,0 @@
-[submodule "exercises/ftp"]
-	path = exercises/ftp
-	url = https://github.com/simplonco/ftp
-[submodule "exercises/ssh"]
-	path = exercises/ssh
-	url = https://github.com/simplonco/ssh
